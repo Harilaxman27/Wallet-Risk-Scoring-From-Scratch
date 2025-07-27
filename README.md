@@ -1,7 +1,6 @@
 # 🏦 DeFi Wallet Risk Scoring System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-lightgrey.svg)](https://ethereum.org)
 
 A comprehensive risk assessment pipeline that evaluates Ethereum wallet addresses based on their historical interactions with Compound V2/V3 lending protocols. Assigns risk scores from **0-1000** to enable data-driven lending decisions in DeFi.
