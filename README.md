@@ -234,6 +234,6 @@ Get-Content .env # Windows PowerShell
 
 * Built for the **Zeru Internship Challenge**
 * By: Salendra Harilaxman
-*Last updated: July 27, 2025*
+* Last updated: July 27, 2025*
 
 
